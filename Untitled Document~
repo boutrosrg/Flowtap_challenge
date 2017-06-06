@@ -1,0 +1,9 @@
+ You can find the actual project material at ./folder{$var1}/c{$var2}.html
+
+	$variable can be found:
+	1) $var1 = 2 * (area under the Standard Normal Distribution curve) = 2*.95
+	2) $var2 = (win probability after switching doors in the Monty Hall Problem) in %, rounded up to the next integer. = 67
+
+	If you have questions, reach out to Markus :-)
+
+	/folder1.9/c67.html
